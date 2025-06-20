@@ -1,6 +1,8 @@
 # Python Page Opener
 A simple Python automation script that opens the Chrome web browser at a specified URL every X seconds.
-![image](https://github.com/user-attachments/assets/3d52757d-c748-4ed0-82b5-8f495251259e)
+
+![image](https://github.com/user-attachments/assets/45784dac-c83a-4afe-ad2b-4338c6726e2d)
+
 
 
 ## Project Setup Guide
